@@ -1,0 +1,7 @@
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Verified+1: Alan Pevec <alan.pevec@redhat.com>
+Submitted-by: Alan Pevec <alan.pevec@redhat.com>
+Submitted-at: Fri, 17 Apr 2015 15:24:47 +0200
+Reviewed-on: https://review.gerrithub.io/230457
+Project: openstack-packages/swift
+Branch: refs/heads/f20-master
