@@ -1,0 +1,7 @@
+Verified+1: rdo-ci-jenkins <brad+jenkins@redhat.com>
+Code-Review+2: Javier Peña <jpena@redhat.com>
+Submitted-by: Lukáš Bezdička <lbezdick@redhat.com>
+Submitted-at: Mon, 13 Jul 2015 14:22:24 +0200
+Reviewed-on: https://review.gerrithub.io/239554
+Project: openstack-packages/swift
+Branch: refs/heads/rpm-master
