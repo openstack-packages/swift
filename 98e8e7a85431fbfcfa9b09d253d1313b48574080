@@ -16,6 +16,24 @@
       "revId": "98e8e7a85431fbfcfa9b09d253d1313b48574080",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_903c82e4",
+        "filename": "openstack-swift.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 244,
+      "author": {
+        "id": 1003941
+      },
+      "writtenOn": "2016-03-09T14:50:41Z",
+      "side": 1,
+      "message": "python setup.py install doesn\u0027t install test files in Swift. I checked that because it puzzled me too.",
+      "parentUuid": "5a72e520_3054ae20",
+      "revId": "98e8e7a85431fbfcfa9b09d253d1313b48574080",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
