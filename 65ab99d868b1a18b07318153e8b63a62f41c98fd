@@ -1,0 +1,7 @@
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Submitted-by: Alan Pevec <alan.pevec@redhat.com>
+Submitted-at: Sun, 17 Apr 2016 17:20:19 -0400
+Reviewed-on: https://review.gerrithub.io/273234
+Project: openstack-packages/swift
+Branch: refs/heads/rpm-liberty
